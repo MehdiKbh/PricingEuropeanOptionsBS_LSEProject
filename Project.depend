@@ -1,0 +1,258 @@
+# depslib dependency file v1.0
+1586378882 source:c:\users\kaabache\documents\cours\lse\c++\tps\tp5\worksheet5\main.cpp
+	<iostream>
+	"matrix.h"
+	"MatrixOperations.h"
+
+1586280169 source:c:\users\kaabache\documents\cours\lse\c++\tps\tp5\worksheet5\array.cpp
+	"array.h"
+	<iostream>
+	<cstdlib>
+
+1586280169 c:\users\kaabache\documents\cours\lse\c++\tps\tp5\worksheet5\array.h
+
+1586281036 source:c:\users\kaabache\documents\cours\lse\c++\tps\tp5\worksheet5\squarematrix.cpp
+	"squareMatrix.h"
+	<iostream>
+	<cstdlib>
+
+1586281720 c:\users\kaabache\documents\cours\lse\c++\tps\tp5\worksheet5\squarematrix.h
+	"matrix.h"
+
+1586363458 c:\users\kaabache\documents\cours\lse\c++\tps\tp5\worksheet5\matrix.h
+
+1586379800 source:c:\users\kaabache\documents\cours\lse\c++\tps\tp5\worksheet5\matrix.cpp
+	"matrix.h"
+	"MatrixOperations.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1586365541 source:c:\users\kaabache\documents\cours\lse\c++\tps\tp5\worksheet5\matrixoperations.cpp
+	"MatrixOperations.h"
+	"matrix.h"
+	<iostream>
+	<cstdlib>
+
+1586365519 c:\users\kaabache\documents\cours\lse\c++\tps\tp5\worksheet5\matrixoperations.h
+	"matrix.h"
+
+1589060587 source:c:\users\kaabache\documents\cours\lse\computational methods\project\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	"matrix.h"
+	"MatrixOperations.h"
+	"Sampler.h"
+	"GBM.h"
+	"MonteCarloEngine.h"
+	"Payoffs.h"
+
+1589060985 c:\users\kaabache\documents\cours\lse\computational methods\project\matrix.h
+
+1589061759 c:\users\kaabache\documents\cours\lse\computational methods\project\matrixoperations.h
+	"matrix.h"
+
+1589061655 source:c:\users\kaabache\documents\cours\lse\computational methods\project\matrix.cpp
+	"matrix.h"
+	"MatrixOperations.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<cmath>
+
+1587844142 source:c:\users\kaabache\documents\cours\lse\computational methods\project\matrixoperations.cpp
+	"MatrixOperations.h"
+	"matrix.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1589062331 source:c:\users\kaabache\documents\cours\lse\computational methods\project\sampler.cpp
+	"Sampler.h"
+	"matrix.h"
+	"MatrixOperations.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1589062321 c:\users\kaabache\documents\cours\lse\computational methods\project\sampler.h
+	"matrix.h"
+	"MatrixOperations.h"
+
+1588179145 source:c:\users\kaabache\documents\cours\lse\computational methods\project\gbm.cpp
+	"GBM.h"
+	"matrix.h"
+	"MatrixOperations.h"
+	<iostream>
+	<cmath>
+
+1589062480 c:\users\kaabache\documents\cours\lse\computational methods\project\gbm.h
+	"matrix.h"
+	"MatrixOperations.h"
+	"Sampler.h"
+
+1589062912 source:c:\users\kaabache\documents\cours\lse\computational methods\project\montecarloengine.cpp
+	"MonteCarloEngine.h"
+	"GBM.h"
+	"Payoffs.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1589062703 c:\users\kaabache\documents\cours\lse\computational methods\project\montecarloengine.h
+	"GBM.h"
+
+1589062970 c:\users\kaabache\documents\cours\lse\computational methods\project\payoffs.h
+
+1587857882 source:c:\users\kaabache\documents\cours\lse\computational methods\project\payoffs.cpp
+	"Payoffs.h"
+
+1588179145 source:c:\users\kaabache\documents\cours\project\gbm.cpp
+	"GBM.h"
+	"matrix.h"
+	"MatrixOperations.h"
+	<iostream>
+	<cmath>
+
+1589062480 c:\users\kaabache\documents\cours\project\gbm.h
+	"matrix.h"
+	"MatrixOperations.h"
+	"Sampler.h"
+
+1589060985 c:\users\kaabache\documents\cours\project\matrix.h
+
+1589061759 c:\users\kaabache\documents\cours\project\matrixoperations.h
+	"matrix.h"
+
+1589062321 c:\users\kaabache\documents\cours\project\sampler.h
+	"matrix.h"
+	"MatrixOperations.h"
+
+1589060587 source:c:\users\kaabache\documents\cours\project\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	"matrix.h"
+	"MatrixOperations.h"
+	"Sampler.h"
+	"GBM.h"
+	"MonteCarloEngine.h"
+	"Payoffs.h"
+
+1589062703 c:\users\kaabache\documents\cours\project\montecarloengine.h
+	"GBM.h"
+
+1589062970 c:\users\kaabache\documents\cours\project\payoffs.h
+
+1589061655 source:c:\users\kaabache\documents\cours\project\matrix.cpp
+	"matrix.h"
+	"MatrixOperations.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<cmath>
+
+1587844142 source:c:\users\kaabache\documents\cours\project\matrixoperations.cpp
+	"MatrixOperations.h"
+	"matrix.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1589062912 source:c:\users\kaabache\documents\cours\project\montecarloengine.cpp
+	"MonteCarloEngine.h"
+	"GBM.h"
+	"Payoffs.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1587857882 source:c:\users\kaabache\documents\cours\project\payoffs.cpp
+	"Payoffs.h"
+
+1589062331 source:c:\users\kaabache\documents\cours\project\sampler.cpp
+	"Sampler.h"
+	"matrix.h"
+	"MatrixOperations.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1588179145 source:c:\users\kaabache\documents\cours\lse\computational methods\codes\gbm.cpp
+	"GBM.h"
+	"matrix.h"
+	"MatrixOperations.h"
+	<iostream>
+	<cmath>
+
+1589062480 c:\users\kaabache\documents\cours\lse\computational methods\codes\gbm.h
+	"matrix.h"
+	"MatrixOperations.h"
+	"Sampler.h"
+
+1589060985 c:\users\kaabache\documents\cours\lse\computational methods\codes\matrix.h
+
+1589061759 c:\users\kaabache\documents\cours\lse\computational methods\codes\matrixoperations.h
+	"matrix.h"
+
+1589062321 c:\users\kaabache\documents\cours\lse\computational methods\codes\sampler.h
+	"matrix.h"
+	"MatrixOperations.h"
+
+1589060587 source:c:\users\kaabache\documents\cours\lse\computational methods\codes\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	"matrix.h"
+	"MatrixOperations.h"
+	"Sampler.h"
+	"GBM.h"
+	"MonteCarloEngine.h"
+	"Payoffs.h"
+
+1589062703 c:\users\kaabache\documents\cours\lse\computational methods\codes\montecarloengine.h
+	"GBM.h"
+
+1589062970 c:\users\kaabache\documents\cours\lse\computational methods\codes\payoffs.h
+
+1589061655 source:c:\users\kaabache\documents\cours\lse\computational methods\codes\matrix.cpp
+	"matrix.h"
+	"MatrixOperations.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<cmath>
+
+1587844142 source:c:\users\kaabache\documents\cours\lse\computational methods\codes\matrixoperations.cpp
+	"MatrixOperations.h"
+	"matrix.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1589062912 source:c:\users\kaabache\documents\cours\lse\computational methods\codes\montecarloengine.cpp
+	"MonteCarloEngine.h"
+	"GBM.h"
+	"Payoffs.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1587857882 source:c:\users\kaabache\documents\cours\lse\computational methods\codes\payoffs.cpp
+	"Payoffs.h"
+
+1589062331 source:c:\users\kaabache\documents\cours\lse\computational methods\codes\sampler.cpp
+	"Sampler.h"
+	"matrix.h"
+	"MatrixOperations.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
